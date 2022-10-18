@@ -52,11 +52,5 @@ There is support for widgets
 <img src="screenshots/widjets_light.png" height="350" alt="Screenshot"/>
    </div>
    
-## Author
-* [Bogdan Zykov](https://github.com/BogdanZyk)
 
-## License
-
- Copyright 2022 Bogdan Zykov.
- Licensed under MIT License: https://opensource.org/licenses/MIT
    
