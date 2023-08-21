@@ -1,8 +1,8 @@
 # FITZ
 
 #### An app for creating sporting challenges, tracking their progress and execution.
-Contains a premium subscription with the ability to unlock all content, create customised exercises and more customisation
-There is support for widgets
+Contains a premium subscription with the ability to unlock all content, create customised exercises and more customisation.
+There is support for widgets.
 
 
 ## Includes ( ALL SWIFTUI )
